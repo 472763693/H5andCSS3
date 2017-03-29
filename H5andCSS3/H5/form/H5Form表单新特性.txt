@@ -1,0 +1,10 @@
+<input type="email" />  … 限制用户输入email格式
+<input type="url" /> … 限制用户输入网址格式
+<input type="date" />  … 限制用户输入日期格式
+<input type="time" />  … 限制用户输入时间格式
+<input type="month" />  … 限制用户输入月份格式
+<input type="week" />  … 限制用户输入周格式
+<input type="number" />  … 限制用户输入数字格式
+<input type="range" />  … 一个滑动条效果
+<input type="search" />  … 搜索格式 results="n"
+<input type="color" />  … 选择颜色格式
